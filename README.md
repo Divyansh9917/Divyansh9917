@@ -1,12 +1,11 @@
 ## Hi there! 👋
 
-### Hi there! 👋
 
-I'm **Divyansh Mishra** — a student at Indian Institute Of Information Technology (IIIT) Bhagalpur. I'm a frontend-focused web developer who enjoys building modern, responsive web apps and shipping user-friendly experiences. 
+I'm **Divyansh Mishra** — a student at Indian Institute Of Information Technology (IIIT) Bhagalpur. I'm a full stack web developer who enjoys building modern, responsive web apps and shipping user-friendly experiences. 
 
 ✨ Tagline: Crafting polished web UIs and interactive projects with JavaScript & TypeScript.
 
-## About Me
+
 
 #### About Me
 
